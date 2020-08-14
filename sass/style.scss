@@ -1,0 +1,18 @@
+@import 'variables';
+
+body{
+  background: $back-color;
+  color: $text-color;
+}
+
+.heading__text{
+  font-size: 60px;
+
+}
+
+.container-home-logo{
+  width: 50px;
+  left: 60px;
+  top: 10px;
+  position: fixed;
+}

@@ -1,0 +1,14 @@
+body {
+  background: #F4F1E3;
+  color: #312E39; }
+
+.heading__text {
+  font-size: 60px; }
+
+.container-home-logo {
+  width: 50px;
+  left: 60px;
+  top: 10px;
+  position: fixed; }
+
+/*# sourceMappingURL=style.css.map */
